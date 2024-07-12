@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  color: #82a5ca;
+  background-size: cover;
+  text-align: center;
+  font-family:"Trirong", serif;
+}
+#title{
+  text-shadow: 0px 0px 4px black;
+}
+#hero{ color: #82a5ca;
+  background-size: cover;
+  padding: 10px 0 40px;
+  text-align: center;
+  font-family:"Trirong", serif;
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVwMTlnYTBkMnFmazIxcTdmZHRpdGUwN3kzY3Z6N2d3cnM4ZzRiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif")
+}"
+#main{
+  width: 35px;
+}
+#btm{
+  color: #82a5ca;
+  background: white
+  font-family:"Trirong", serif;
+  font-weight:800
+  padding: 6px 12px
+}
+#underline{
+  border-bottom: 4px solid wheat;
+}
